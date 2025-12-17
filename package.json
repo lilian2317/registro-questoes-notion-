@@ -1,6 +1,5 @@
 {
-  "name": "registro-questoes-notion",
-  "version": "1.0.0",
+  "name": "revisao-pge-api",
   "private": true,
   "type": "module",
   "dependencies": {
